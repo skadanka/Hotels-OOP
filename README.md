@@ -33,7 +33,7 @@ The system includes the following key components:
 - **Service**: Additional services that can be offered to clients during their stay.
 - **Hotel**: Manages multiple rooms and tracks reservations.
 
-![System Design](image.png)
+![image](https://github.com/user-attachments/assets/fe3ade76-d14c-4ad2-b2bd-83186d6b35f6)
 
 ### Business Logic
 - Clients can make a reservation for one or more rooms, but for simplicity, this project assumes that all reservations are for one day only.
