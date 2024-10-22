@@ -1,5 +1,5 @@
 # Hotels.com System - Educational Project
-
+Credit: BGU - Dr Arnon Strum
 ## Introduction
 This project is an educational exercise aimed at understanding and applying constraint language (OCL - Object Constraint Language) to model and enforce constraints within a hotel booking system. The goal is to demonstrate how constraints defined in OCL can be applied and enforced using Java programming language. The system is inspired by the Hotels.com platform and focuses on managing hotels, rooms, clients, bookings, reviews, and services.
 
